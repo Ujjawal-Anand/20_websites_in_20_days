@@ -23,13 +23,13 @@ This project is all about teaching myself front-end UI design by making one webs
 
 ## Progress
 
-### Day 1 (date: 04 oct 2015)
+### Day 1 (date: 04 Oct 2015)
 
 #### Target
-  A hello World website with a basic layout
+  A hello world website with a basic layout
 
 #### Level
-  Absolute Beginner
+  Absolute beginner
 
 #### Things I learned
   Use of basics techniques like specifying tags in html file and how to design them using external CSS.
