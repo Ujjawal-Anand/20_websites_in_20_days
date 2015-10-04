@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> Project Starting date: 4 October 2015, Project Finishing date: 21 April 2016, Current: day 1
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 1
 
 ## what
 
@@ -20,3 +20,19 @@ This project is all about teaching myself front-end UI design by making one webs
 - [Polymer](https://www.polymer-project.org/0.5/)
 - [jQuery] (https://jquery.com/)
 - [AngularJs] (https://angularjs.org/)
+
+## Progress
+
+### Day 1 (date: 04 oct 2015)
+
+#### Target
+  A hello World website with a basic layout
+
+#### Level
+  Absolute Beginner
+
+#### Things I learned
+  Use of basics techniques like specifying tags in html file and how to design them using external CSS.
+
+#### Thought of the day
+  "Code everyday"

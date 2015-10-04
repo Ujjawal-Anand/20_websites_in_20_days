@@ -1,0 +1,105 @@
+/*Typography*/
+
+h1,h2,h3,h4,h5,h6 {
+	line-height: 1;
+	color: #fff;
+	font-weight: bold;
+} 
+
+h1 {
+	font-size: 2em;
+	letter-spacing: -2px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.2em;
+	letter-spacing: -1px;
+	text-align: center;
+}
+
+p {
+	font-size: 1.0em;
+	line-height: 1.7em;
+}
+
+
+/*header*/
+
+header {
+	margin-top: -5px;
+	background-color: black;
+        height: 60px;
+       }
+header h1{
+	margin: 10px;
+	float: left;
+      	 }
+header h2 {
+        float: right;
+	margin-right: 10px;
+        margin-top: 25px;
+          }	
+
+/*nav*/
+
+nav {
+	height: 40px;
+	text-align: center;
+	font-weight: bold;
+	background-color: black;
+	font-size: 1em;
+	margin-top: 5px;
+    }
+nav ul {
+	height: auto;
+	padding: 10px 0px;
+	margin: 0;
+      }
+
+nav li {
+	display: inline;
+	padding: 25px;
+       }
+nav a:link {
+	color: #fff;
+	text-decoration: none;
+           }
+
+/*article*/
+article {
+	float: left;
+	width: 80%;
+	height: 500px;
+	background-color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+      }	  
+
+article section {
+	text-align: center;
+	margin: 5px;
+	height: 80%;
+
+              }
+
+/*aside*/
+aside {
+	float: right;
+	width: 19.5%;
+	margin-left: 5px;
+	height: 500px;
+	background-color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+      }
+
+/*footer*/
+footer {
+	clear: both;
+	background-color: black;
+	margin-top: -5px;
+	text-align: center;
+	}
