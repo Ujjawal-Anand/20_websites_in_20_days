@@ -23,7 +23,8 @@ This project is all about teaching myself front-end UI design by making one webs
 
 ## Progress
 
-### Day 1 (date: 04 Oct 2015)
+### Day 1: [Hello World]((http://codepen.io/andy1729/full/rOygLy/)
+>> Date: 04 Oct 2015
 
 #### Target
   A hello world website with a basic layout
@@ -31,11 +32,29 @@ This project is all about teaching myself front-end UI design by making one webs
 #### Level
   Absolute beginner
 
-### Demo
-  To see what does it look like, go [here] (http://codepen.io/andy1729/full/rOygLy/)
+#### Demo
+  [Here] (http://codepen.io/andy1729/full/rOygLy/)
 
 #### Things I learned
   Use of basics techniques like specifying tags in html file and how to design them using external CSS.
 
 #### Thought of the day
   "Code everyday"
+
+### Day 2: [And then there were some buttons!](http://codepen.io/andy1729/full/membKY/)
+>> Date: 5 Oct 2015
+
+#### Targrt
+   To make some buttons using basic CSS
+
+#### Level
+   Absolute beginner
+
+#### Demo
+   [Here] (http://codepen.io/andy1729/full/membKY/)
+
+#### Things I learned
+   How to make buttons and put the content at the center of your webpage
+
+#### Thought of the day
+  " Hope is a good thing."
