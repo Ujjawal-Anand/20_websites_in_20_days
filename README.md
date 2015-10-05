@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 1
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 2
 
 ## what
 
@@ -30,6 +30,9 @@ This project is all about teaching myself front-end UI design by making one webs
 
 #### Level
   Absolute beginner
+
+### Demo
+  To see what does it look like, go [here] (http://codepen.io/andy1729/full/rOygLy/)
 
 #### Things I learned
   Use of basics techniques like specifying tags in html file and how to design them using external CSS.

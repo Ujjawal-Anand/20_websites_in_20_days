@@ -65,7 +65,6 @@ nav a:link {
 	color: #fff;
 	text-decoration: none;
            }
-
 /*article*/
 article {
 	float: left;
@@ -87,14 +86,15 @@ article section {
 /*aside*/
 aside {
 	float: right;
-	width: 19.5%;
-	margin-left: 5px;
+	margin-left: .5%;
 	height: 500px;
+	width: 19.5%;
 	background-color: black;
-	margin-top: 5px;
+	margin-top: .5%;
 	margin-bottom: 5px;
 	text-align: center;
-      }
+	overflow: hideen;
+        }
 
 /*footer*/
 footer {
