@@ -1,0 +1,62 @@
+html {
+	height: 100%;
+	position: relative;
+     }
+body {
+	position: absolute;
+	text-align: center;
+ 	background-color: #ecf0f1;
+ 	color: #34495e;
+ 	font-family: Trebuchet, Arial, sans-serif;
+	text-align: center;
+	left: 50%;   /*to set the content at the middle of the p
+age */
+
+        top: 50%;
+	transform: translate(-50%, -50%);
+     }
+
+.btn {
+	vertical-align: top;
+	margin: 30px auto;
+	padding: 10px;
+	display: block;
+	border-radius: 5px;
+	position: middle;
+	background-color: lime;
+	position: relative;
+	color: #fff;
+	transition: background-color .3s;
+	transition: color .3s;
+  
+     }
+.btn span {
+	padding: 10px 24px;
+          }
+.btn:hover {
+	background-color: #fff;
+	color: lime;
+	border: 0;
+	box-shadow: 0px 10px 8px 0px black;
+           }
+.btn:before {
+	position: absolute;
+	top: 50%;
+	left: 50%
+            }
+.btn.orange-btn {
+	background-color: orange;
+                }
+.btn.orange-btn:hover {
+	color: orange;
+	background-color: #fff;
+			}
+
+.btn.red-btn {
+	background-color: red;
+	     }
+
+.btn.red-btn:hover {
+	background-color: #fff;
+	color: red;
+		   }
