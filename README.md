@@ -59,7 +59,7 @@ This project is all about teaching myself front-end UI design by making one webs
 #### Thought of the day
   " Hope is a good thing."
 
-### Day 2: [In search of Inspiration](http://codepen.io/andy1729/full/JYNWRY/))
+### Day 2: [In search of Inspiration](http://codepen.io/andy1729/full/JYNWRY/)
 > Date: 6 Oct 2015
 
 #### Targrt
