@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 2
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 3
 
 ## what
 
