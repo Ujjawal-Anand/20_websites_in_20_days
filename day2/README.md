@@ -1,4 +1,4 @@
-## Welcome to day:2 of 200_websites_in_200_days
+## Welcome to day: 2 of 200_websites_in_200_days
 ### [And then there were some buttons]((http://codepen.io/andy1729/full/membKY/))
 > Date: 5 Oct 2015
 
