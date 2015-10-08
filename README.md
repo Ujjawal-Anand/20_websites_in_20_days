@@ -96,7 +96,7 @@ This project is all about teaching myself front-end UI design by making one webs
 #### Thought of the day
   "Just keep doing things you suppose to do and don't think much.Dots will connect"
 
-### Day 5: [navigation]()
+### Day 5: [navigation bar with dropdown-menu](http://codepen.io/andy1729/full/wKeJYX/)
 > Date: 08 Oct 2015
 
 #### Target
@@ -106,10 +106,10 @@ This project is all about teaching myself front-end UI design by making one webs
   Absolute Beginner
 
 #### Demo
-  [Here] ()
+  [Here] (http://codepen.io/andy1729/full/wKeJYX/)
 
 #### Things I learned
-  
+   Many small things in which main one is setting visibility of an element
 
 #### Thought of the day
-  
+   Got to busy with work, no time to think anything.
