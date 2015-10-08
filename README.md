@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 3
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 5
 
 ## what
 
@@ -95,3 +95,21 @@ This project is all about teaching myself front-end UI design by making one webs
 
 #### Thought of the day
   "Just keep doing things you suppose to do and don't think much.Dots will connect"
+
+### Day 5: [navigation]()
+> Date: 08 Oct 2015
+
+#### Target
+  Use of basic CSS techniques to create a navigation bar with dropdown menu
+
+#### Level
+  Absolute Beginner
+
+#### Demo
+  [Here] ()
+
+#### Things I learned
+  
+
+#### Thought of the day
+  
