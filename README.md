@@ -114,7 +114,7 @@ This project is all about teaching myself front-end UI design by making one webs
 #### Thought of the day
    Got to busy with work, no time to think anything.
 
-### Day 5: [Just another navigation bar]()
+### Day 5: [Just another navigation bar](http://codepen.io/andy1729/full/EVXdZg/)
 > Date: 09 Oct 2015
 
 #### Target
@@ -124,10 +124,10 @@ This project is all about teaching myself front-end UI design by making one webs
   Beginner
 
 #### Demo
-  [Here] ()
+  [Here] (http://codepen.io/andy1729/full/EVXdZg/)
 
 #### Things I learned
-   Just a much better grip on old things that I learned, doing older projects.
+   Just a much better grip on old things that I have learned till now doing this project.
 
 #### Thought of the day
    [codepen] (http://codepen.io/) is just great.
