@@ -113,3 +113,22 @@ This project is all about teaching myself front-end UI design by making one webs
 
 #### Thought of the day
    Got to busy with work, no time to think anything.
+
+### Day 5: [Just another navigation bar]()
+> Date: 09 Oct 2015
+
+#### Target
+  Use of basic CSS techniques to create a navigation bar with cool hover effect
+
+#### Level
+  Beginner
+
+#### Demo
+  [Here] ()
+
+#### Things I learned
+   Just a much better grip on old things that I learned, doing older projects.
+
+#### Thought of the day
+   [codepen] (http://codepen.io/) is just great.
+
