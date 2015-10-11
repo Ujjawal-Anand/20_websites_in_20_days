@@ -1,11 +1,16 @@
 # 200_websites_in_200_days
 > project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 5
+## Contents
 
-## what
+- [About](#about)
+- [Things to learn](#things-to-learn)
+- [Progress](#progress)
+
+## About
 
 This project is all about teaching myself front-end UI design by making one website per day for 200 days.The inspiration for this project came from [Jen Dewalt] (https://github.com/jendewalt) who taught herself programming by building [180 wesites in 180 days](http://jenniferdewalt.com/)
 
-## Things I will be learning by working on this project
+## Things to learn
 
 ### Technologies
 
