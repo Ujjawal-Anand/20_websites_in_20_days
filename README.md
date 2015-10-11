@@ -1,10 +1,11 @@
 # 200_websites_in_200_days
 > project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 5
+
 ## Contents
 
 - [About](#about)
 - [Things to learn](#things-to-learn)
-- [Progress](#progress)
+- [Progress Bar](#progress-bar)
 
 ## About
 
@@ -26,7 +27,9 @@ This project is all about teaching myself front-end UI design by making one webs
 - [jQuery] (https://jquery.com/)
 - [AngularJs] (https://angularjs.org/)
 
-## Progress
+## Progress Bar
+
+- [Day 1:Hello World] (#day-7:)
 
 ### Day 1: [Hello World](http://codepen.io/andy1729/full/rOygLy/)
 > Date: 04 Oct 2015
