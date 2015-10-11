@@ -114,7 +114,7 @@ This project is all about teaching myself front-end UI design by making one webs
 #### Thought of the day
    Got to busy with work, no time to think anything.
 
-### Day 5: [Just another navigation bar](http://codepen.io/andy1729/full/EVXdZg/)
+### Day 6: [Just another navigation bar](http://codepen.io/andy1729/full/EVXdZg/)
 > Date: 09 Oct 2015
 
 #### Target
@@ -131,4 +131,24 @@ This project is all about teaching myself front-end UI design by making one webs
 
 #### Thought of the day
    [codepen] (http://codepen.io/) is just great.
+
+### Day 7: [Shelly](http://codepen.io/andy1729/full/jbwgVz/)
+> Date: 10 Oct 2015
+
+#### Target
+  Just tried to create a design which a saw eariler on dribble using html and CSS.
+
+#### Level
+  Beginner
+
+#### Demo
+  [Here] (http://codepen.io/andy1729/full/jbwgVz/)
+
+#### Things I learned
+   Well, I have started having this feelings that I have knowledge(still just a little) of CSS and html, and I can use them to crate cool stuffs.
+
+On a side note,having knowledge of something doesn't matter what does matter is whether you can express that knowledge, whether you can use that knowledge to solve your problems or not.
+
+#### Thought of the day
+   Well, I told about it in above section.
 
