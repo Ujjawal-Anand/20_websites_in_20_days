@@ -28,6 +28,7 @@ This project is all about teaching myself front-end UI design by making one webs
 - [AngularJs](https://angularjs.org/)
 
 ## Progress Bar
+- [Day 8:95-time is money](http://codepen.io/andy1729/full/RWZjXw/)
 - [Day 7:Shelly](http://codepen.io/andy1729/full/jbwgVz/)
 - [Day 6:Just another navigation bar](http://codepen.io/andy1729/full/EVXdZg/)
 - [Day 5:navigation bar with dropdown-menu](http://codepen.io/andy1729/full/wKeJYX/)
