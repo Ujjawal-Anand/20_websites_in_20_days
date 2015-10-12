@@ -2,4 +2,17 @@
 ### [And then there were some buttons]((http://codepen.io/andy1729/full/membKY/))
 > Date: 5 Oct 2015
 
-  Today, I made some button using basic CSS properties also learnt about how to set content of your webpage at the center using left,top and transform properties.Still a way to go and hope is the best thing I have.
+#### Targrt
+   To make some buttons using basic CSS
+
+#### Level
+   Absolute beginner
+
+#### Demo
+   [Here] (http://codepen.io/andy1729/full/membKY/)
+
+#### Things I learned
+   How to make buttons and put the content at the center of your webpage
+
+#### Thought of the day
+  " Hope is a good thing."
