@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 8
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 11
 
 ## Contents
 
@@ -28,6 +28,9 @@ This project is all about teaching myself front-end UI design by making one webs
 - [AngularJs](https://angularjs.org/)
 
 ## Progress Bar
+- [Day 11:Work-in_progress]
+- [Day 10:Work-in-progress]
+- [Day 9:LogIn-form](http://codepen.io/andy1729/full/rOzbdo/)
 - [Day 8:95-time is money](http://codepen.io/andy1729/full/RWZjXw/)
 - [Day 7:Shelly](http://codepen.io/andy1729/full/jbwgVz/)
 - [Day 6:Just another navigation bar](http://codepen.io/andy1729/full/EVXdZg/)

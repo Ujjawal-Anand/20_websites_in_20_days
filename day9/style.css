@@ -1,15 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 * {
   padding: 0;
   margin: 0;
   outline: none;
   border: none;
   text-decoration: none;
+  font-family: "Ubuntu" sans-serif;
+  box-sizing: border-box;
+}
+body {
+  background: #C1BBC1;
 }
 .main-wrap {
-  position: absolute;
   top: 50%;
   left: 50%;
+  height: 540px;
+  width: 420px;
+  padding-bottom: 50px;
+  position: absolute;
   -webkit-transform: translate(-50%,-50%);
   transform: translate(-50%,-50%);
-  height: 50px;
+  box-shadow: box-shadow: 1px 50px 37px -35px #242424;
+  -webkit-box-shadow: 1px 50px 37px -35px #242424;
+  -moz-box-shadow: 1px 50px 37px -35px #242424;
+  -o-box-shadow: 1px 50px 37px -35px #242424;
   }
+
+.main-img {
+  height: 540px;
+  width: 420px;
+  position: absolute;
+  z-index: -2;
+  
+}
+/*img-mask */
+.img-mask {
+  height: 540px;
+  width: 420px;
+  background-color: rgba(0, 0, 128,0.8);
+  position: absolute;
+  z-index: -1;
+}
+/*the main-content-text, forms,checkbox, everything*/
+.content {
+  position: relative;
+  margin-top:  50px;
+  margin-left: 50px;
+  margin-right:50px;
+  z-index: 9;
+ }
+/*sign-in sign-up text */
+.head a {
+  position: relative;
+  display: inline-block;
+  float: left;
+  margin-left: 10px;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: bold;
+  z-index: 9;
+}
+/*line under sign-in */
+a.first::after {
+  content:'';
+  position: absolute;
+  width: 100%;
+  background: #fff;
+  height: 1px;
+  z-index: 10;
+  left: 2%;
+  bottom: -3px;
+}
+/* sign-up text*/
+a.last {
+  padding-left: 30px;
+  color: rgba(255,255,255,0.5);
+}
+/*main-form */
+.main-form {
+  position: absolute;
+  z-index: 9;
+  margin-top: 90px;
+  }
+/*styling legends of form */
+.main-form legend {
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+  font-weight: bold;
+  font-size: 0.8em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  }
+/*name form */
+.main-form input[type="name"]  {
+    width: 320px; 
+    padding: 10px;
+    border-radius: 30px;
+    background:rgba(255,255,255,0.3);
+    color: #fff;
+    margin-bottom: 15px;
+    transition: box-shadow 0.3s;
+ }
+/* password form */
+.main-form input[type="password"]  {
+    width: 320px; 
+    padding: 10px;
+    border-radius: 30px;
+    background:rgba(255,255,255,0.3);
+    margin-top: 5px;
+    transition: box-shadow 0.3s;
+ }
+/*stylining placeholder */
+::-webkit-input-placeholder {
+  color: #fff;
+  font-weight: bold;
+  padding-left: 5px;
+  font-size: 1.1em;
+}
+:-moz-placeholder {
+  color: #fff;
+  font-weight: bold;
+  padding-left: 5px;
+  font-size: 1.1em;
+}
+::-moz-placeholder {
+  color: #fff;
+  font-weight: bold;
+  padding-left: 5px;
+  font-size: 1.1em;
+}
+/* end styling placeholder */
+/* form on focus */
+.main-form input:focus {
+  box-shadow: 0 0 5px 1px #000;
+}
+/* styling checkbox */
+.check input[type=checkbox] {
+  display: none;
+}
+
+.check label {
+  color: #fff;
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+.check label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 15px;
+    position: absolute;
+    left: 0;
+    background-color: blue;
+   
+}
+.check input[type=checkbox]:checked + label:before {
+  content: "\2713";
+  border-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+}
+
+/*submit button */
+.btn-style {
+  width: 320px;
+  padding: 10px;
+  border-radius: 30px;
+  background: blue;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  transition: box-shadow 0.3s;
+  
+}
+/*submit button on focus */
+.btn-style:focus {
+  box-shadow: 0 0 5px 1px #000;
+}
+/* line below submit button */
+.line {
+  height: 1px;
+  background: rgba(255,255,255,0.5);
+  width: 310px;
+  margin-top: 400px;
+  margin-left: 10px;
+}
+/*forgot password link */
+a.forget-password {
+  position: absolute;
+  display: inline-block;
+  margin-top: 435px;
+  margin-left: -80px;
+  float: left;
+  color: rgba(255,255,255,0.5);
+  font-size: 0.8em;
+  }
+

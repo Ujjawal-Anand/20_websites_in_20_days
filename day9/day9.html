@@ -1,29 +1,34 @@
 <!Doctype html>
 <html, lan="en">
   <head>
-    <title> Day:9:sign-in form|200 websites in 200 days</title>
+    <title> Day:9:Login-form form|200 websites in 200 days</title>
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
-<div class="main-wrap">
- <img class="main-img" src="https://s-media-cache-ak0.pinimg.com/736x/ac/93/78/ac937854ceb10f245cf1d246eeee3a54.jpg">
-  <div class="img-wrap"></div>
-  <a href="#">sign in</a>
-  <a href="#">sign up </a>
-  <form class="main-form" action="" method="post">
-    <fieldset>
-      <legend>username</legend>
-      <input type="name" placeholder="andy1729">
-      <legend>password</legend>
-      <input type="password" placeholder="*********">
-      <label for="remember">
-        <input id="remember" type="checkbox" checked> Keep me signed in
-      </label>
-      <input type="submit" value="SIGN IN" class="button">
-    </fieldset>
-    <hr />
-    <a class="forget-password" href="#">Forgrt Password?</a>
-  </form>
-</div> <!--/main-wrap-->
-</body>
+   <div class="main-wrap">
+      <img class="main-img" src="https://s-media-cache-ak0.pinimg.com/736x/ac/93/78/ac937854ceb10f245cf1d246eeee3a54.jpg">
+      <div class="img-mask"></div>
+      <div class="content">
+        <div class="head">
+          <a class="first" href="#">sign in</a>
+          <a class="last" href="#">sign up </a>
+        </div> <!--/head-->
+        <form class="main-form">
+          <fieldset>
+            <legend >username</legend>
+            <input type="name" placeholder="andy1729">
+            <legend>password</legend>
+            <input type="password" placeholder="*********">
+            <div class="check">
+              <input id="check1" type="checkbox" checked /> 
+              <label for="check1">Keep me Signed in </label>
+            </div> <!--check-->
+            <input type="submit" value="SIGN IN" class="btn-style">
+          </fieldset>
+        </form>
+        <div class="line main-form"></div>
+          <a class="forget-password main-form" href="#">Forgot Password?</a>
+      </div> <!--content-->
+    </div> <!--/main-wrap-->
+  </body>
 </htm>
