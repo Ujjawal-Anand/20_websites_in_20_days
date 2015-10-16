@@ -9,11 +9,11 @@
   Absolute beginner
 
 #### Demo
-  [Here] (http://codepen.io/andy1729/pen/OyxYJg?editors=110)
+  <a href="http://codepen.io/andy1729/full/rOygLy/" target="_blank">Here</a>
+
 
 #### Things I learned
-  Learned about flex-property and use of it to perfectly align and center boxes. CSS-tricks.com has very informative article about it. Which you can find <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Here</a> 
+  Learned about flex-property and use of it to perfectly align and center boxes. CSS-tricks.com has very informative article about it. Which you can find <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Here</a>
 
 #### Thought of the day
   Well, let's accept the fact that I am laggin behind. Which is not a good thing.
-
