@@ -1,6 +1,6 @@
 ## Welcome to the day 11 of 200_websites_in_200_days
 ### <a href="http://codepen.io/andy1729/full/wKrVwa/" target="_blank">Flex-box Playground</a>
-> Date:15 October 2015
+> Date:14 October 2015
 
 #### Target
   To create a responsive layout usinf flex
@@ -13,7 +13,7 @@
 
 
 #### Things I learned
-  Learnes a-lot today, seriously. flex property is really great to create responsive layout.
+  Leart a-lot today, seriously. flex property is really great to create responsive layout.
 
 #### Thought of the day
   Well, keep coding! 

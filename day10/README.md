@@ -1,6 +1,6 @@
 ## Welcome to the day 10 of 200_websites_in_200_days
 ### <a href="http://codepen.io/andy1729/pen/OyxYJg?editors=110" target="_blank">Flex-box Playground</a>
-> Date:14 October 2015
+> Date:13 October 2015
 
 #### Target
   To learn flex-property
