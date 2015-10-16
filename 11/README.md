@@ -1,5 +1,5 @@
 ## Welcome to the day 11 of 200_websites_in_200_days
-### <a href="http://codepen.io/andy1729/full/rOygLy/" target="_blank">Flex-box Palyground</a>
+### <a href="http://codepen.io/andy1729/pen/OyxYJg?editors=110" target="_blank">Flex-box Playground</a>
 > Date:14 October 2015
 
 #### Target
@@ -9,7 +9,7 @@
   Absolute beginner
 
 #### Demo
-  <a href="http://codepen.io/andy1729/full/rOygLy/" target="_blank">Here</a>
+  <a href="http://codepen.io/andy1729/pen/OyxYJg?editors=110" target="_blank">Here</a>
 
 
 #### Things I learned
