@@ -1,51 +1,152 @@
 * {
-  padding: 0;
   margin: 0;
-  font-family: "Ubunty" sans-serif;  
+  padding: 0;
+  font-family: "Ubuntu" sans-serif;
 }
 * li {
   list-style: none;
 }
-#header {
-  text-align: center;
-  margin-top: 15px;
-  font-weight: bold;
- }
 
-.horizontal-flex {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
- }
-.vertical-flex {
-  display: flex;
-  flex-flow: column;
-  justify-content: center;
+* a {
+  text-decoration: none;
 }
-
-#item {
-  background: tomato;
-  height: 150px;
-  width: 200px;
-  margin-left: 5px;
-  margin-top: 15px;
-  font-size: 3em;
-  font-weight: bold;
+* h2 {
   color: #fff;
-  line-height: 150px;
+}
+.wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -wekit-flex-flow: row-wrap;
+  flex-flow: row wrap;
   text-align: center;
-  align-self: center;
- }
-
-.grow:nth-child(2) {
-  flex-grow: 2;
 }
 
-.grow:nth-child(3) {
-  flex-grow: 4;
+.wrapper > * {
+  padding-bottom: 10px;
+  flex: 1 100%;
 }
-/*grow */
-.grow:nth-child(4) {
-  flex-grow: 6;
+/*navigation bar*/
+.navigation {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -wekit-flex-flow: row-wrap;
+  flex-flow: row wrap;
+  justify-content: flex-end; 
+  background: tomato;
+ } 
+
+.navigation a {
+  display: block;
+  padding: 1em;
+  color: #fff;
+  }
+.navigation a:hover {
+  background: rgba(0,0,0,0.1);
+}
+.navigation a:focus {
+  background: rgba(0,0,0,0.1);
 }
 
+.main {
+  background: #00004C;
+  height: 350px;
+  line-height: 350px;
+  color: #fff;
+  box-shadow: inset 0px 0px 8px 6px #000000;
+-webkit-box-shadow: inset 0px 0px 8px 6px #000000;
+-moz-box-shadow: inset 0px 0px 8px 6px #000000;
+-o-box-shadow: inset 0px 0px 8px 6px #000000;
+}
+.aside1 {
+  background: #142952;
+  margin-right: 15px;
+  line-height: 350px;
+}
+.aside2 {
+  background: #142952;
+  margin-left: 15px;
+  line-height: 350px;
+}
+.footer {
+  background: tomato;
+  margin-top: 15px;
+  padding-top: 10px;
+}
+
+/*responsive property medium-width device*/
+@media screen and (max-width: 800px) {
+  .navigation {
+    justify-content: space-around;
+  }
+  .aside{
+    margin-top: 15px;
+  }
+  
+}
+/*responsive property minimum-width device*/
+@media screen and (max-width: 600px) {
+  .navigation {
+    -webkit-flex-flow: column wrap; /*change in column from row*/
+    flex-flow: column wrap;
+    justify-content: space-around;
+  }
+  .navigation a {
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+  }
+  .navigation li:last-of-type a {
+    border-bottom: none;
+  }
+  .aside {
+    margin-top: 15px;
+  }
+  .aside1 {
+    margin-right: 0;
+  }
+  .aside2 {
+     margin-left: 0;
+  }
+} 
+/*medium screens*/
+@media all and (min-width: 600px) {
+  /* We tell both sidebars to share a row */
+  .aside {
+    flex: 1 auto;
+  }
+  
+}
+@media all and (min-width: 800px) {
+  /* We invert order of first sidebar and main
+   * And tell the main element to take twice as much width as the other two sidebars 
+   */
+  .main {
+    flex: 3 0px;
+  }
+
+  .aside1 {
+    order: 1;
+  }
+
+  .main {
+    order: 2;
+  }
+
+  .aside2 {
+    order: 3;
+  }
+
+  .footer {
+    order: 4;
+  }
+}
+body {
+  padding: 15px;
+}
