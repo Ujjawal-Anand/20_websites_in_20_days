@@ -13,7 +13,7 @@
 
 
 #### Things I learned
-  Learnt basics of svg-animation.It's really a great tool.
+  Learned the basics of svg-animation.It's really a great tool.
 
 #### Thought of the day
   Well, let me first google it as I am too lazy too think anything else.
