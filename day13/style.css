@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu" sans-serif;
+ }
+
+body {
+  background: #4773B5;
+  color: black;
+}
+
+.text1 {
+  text-align: center;
+  animation: popdown 2s linear;
+  margin-top: 40px;
+  background: rgba(0,0,0,0.3);
+  padding: 10px;
+  }
+
+.text2 {
+  animation: popleft 3s linear;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.text3 {
+  animation: popright 4s linear;
+  text-align: center;
+  margin-top: 20px;
+}
+svg {
+  background: rgba(0,0,0,0.3);
+  border-radius: 30px;
+}
+#github-icon, #codepen-icon {
+  animation: popup 5s linear;
+  
+}
+#github-icon {
+  position: absolute;
+  left: 35%;
+}
+#codepen-icon {
+  position: absolute;
+  left: 60%;
+}
+.reload {
+  text-align: center;
+  margin-top: 90px;
+}
+.reload #reload1 {
+  animation: popleft 6s linear;
+}
+.reload #reload2 {
+  animation: popright 6s linear;
+}
+
+.auto-reload {
+  margin-top: 10px;
+  line-height: 1.5em;
+  text-align: center;
+  animation: popup 12s linear;
+}
+@keyframes popdown {
+  0% {
+    transform: translateY(-400px);
+  }
+  
+  100% {
+    trnasform: translateY(300px);
+    
+  }
+}
+
+@keyframes popleft {
+ 0% {
+  transform: translateX(-1400px);
+ }
+ }
+
+@keyframes popright {
+  0% {
+      transform: translateX(1400px);
+  }
+  }
+
+@keyframes popup {
+  0% {
+    transform: translateY(2000px);
+  }
+  
+}
