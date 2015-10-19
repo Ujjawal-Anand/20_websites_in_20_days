@@ -33,6 +33,7 @@ function initializeClock(id,time) {
 }
 function currentTime() {
   var t = Date.parse(new Date());
+  t= t+(5*60*60*1000)+(30*60*1000);
   
   return {
     'hours' : Math.floor((t/(1000*60*60))%24),
@@ -44,10 +45,10 @@ function getCurrentTime(id) {
  clock = document.getElementById(id);
   var updateCurrentTime = setInterval(function() {
     var t = currentTime();
-    clock.innerHTML = 'current time (UTC): ' + t.hours +' : ' + t.minutes + ' : ' + t.seconds;
+    clock.innerHTML = 'current time (UTC+0530): ' +('0' + t.hours).slice(-2) +' : ' + ('0' + t.minutes).slice(-2) + ' : ' +('0'+ t.seconds).slice(-2);
 },1000);
 }
 
-var deadline = 'October 03 2015 00:00:50 UTC+0500';
+var deadline = 'October 03 2015 00:00:00 UTC+0530';
 initializeClock('clockdiv', deadline);
 getCurrentTime('currentTime');
