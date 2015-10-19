@@ -1,6 +1,6 @@
 ## Welcome to the day 14 of 200_websites_in_200_days
 ### <a href="http://codepen.io/andy1729/full/pjdLJX/" target="_blank">Countdown begins</a>
-> Date:16 October 2015
+> Date:17 October 2015
 
 #### Target
   Creating a countdown timer using Javascript.
