@@ -28,6 +28,8 @@ This project is all about teaching myself front-end UI design by making one webs
 - [AngularJs](https://angularjs.org/)
 
 ## Progress Bar
+- [Day 14:Countdown begis](https://github.com/andy1729/200_websites_in_200_days/tree/master/day14)
+- [Day 13:Animation using CSS](https://github.com/andy1729/200_websites_in_200_days/tree/master/day13) 
 - [Day 12:Launch the rocket](https://github.com/andy1729/200_websites_in_200_days/tree/master/day12)
 - [Day 11:Learning to be responsive](https://github.com/andy1729/200_websites_in_200_days/tree/master/day11)
 - [Day 10:Flex-box playground](https://github.com/andy1729/200_websites_in_200_days/tree/master/day10)
