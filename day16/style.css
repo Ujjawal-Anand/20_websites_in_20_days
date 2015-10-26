@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:900);
+/*@import url(https://fonts.googleapis.com/css?family=Raleway:900); */
 
 body {
      background: #ffdd59;
@@ -12,7 +12,7 @@ div {
 
 p {
      color: #265687;
-     font-family: Raleway, sans-serif;
+     font-family: "Ubuntu" sans-serif;
      font-size: 72px;
      text-align: center;
      text-shadow: 3px 15px 5px rgba(0, 0, 0, .3);
