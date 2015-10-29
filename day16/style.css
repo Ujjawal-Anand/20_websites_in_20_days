@@ -40,8 +40,8 @@ ul {
 li {
   position: none;
   display: inline-block;
-  height: 7px;
-  width: 7px;
+  height: 5px;
+  width: 5px;
   border-radius: 100%;
   background: #fff;
   margin-left: 13px;
