@@ -1,5 +1,5 @@
 # 200_websites_in_200_days
-> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 14
+> project starting date: 4 October 2015, project finishing date: 21 April 2016, Current: day 27
 
 ## Contents
 
@@ -28,6 +28,9 @@ This project is all about teaching myself front-end UI design by making one webs
 - [AngularJs](https://angularjs.org/)
 
 ## Progress Bar
+- [Day 18: Cool background](https://github.com/andy1729/200_websites_in_200_days/tree/master/day18)
+- [Day 17: Crush me](https://github.com/andy1729/200_websites_in_200_days/tree/master/day17)
+- [Day 16:Ubuntu boot loader](https://github.com/andy1729/200_websites_in_200_days/tree/master/day16)
 - [Day 15:Adding colors in life](https://github.com/andy1729/200_websites_in_200_days/tree/master/day15)
 - [Day 14:Countdown begis](https://github.com/andy1729/200_websites_in_200_days/tree/master/day14)
 - [Day 13:Animation using CSS](https://github.com/andy1729/200_websites_in_200_days/tree/master/day13) 
