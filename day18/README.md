@@ -3,7 +3,7 @@
 > Date:21 October 2015
 
 #### Target
-  To create material design inspired background
+  To create material designed background
 
 #### Level
   Beginner (CSS)
