@@ -22,13 +22,6 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-.wrapper {
-  position : none;
-  background: linear-gradient(45deg, #d5eef8 20%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, #a1dbef 80%); 
-  height: 100%;
-  width: 100%;
-}
-
 .inside {
   top: 50%;
   left: 50%;
