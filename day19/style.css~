@@ -27,7 +27,7 @@ html,body {
 }
 input {
   background: #5264AE;
-  padding: 10px;
+  padding: 5px;
   dispaly: block;
   width: 100%;
   border: none;
@@ -71,7 +71,7 @@ input:focus ~ label, input:valid ~ label {
 
 .foo:before, .foo:after {
   content: '';
-  height: 35px;
+  height: 25px;
   width: 0;
   position: absolute;
   bottom: 1px;
