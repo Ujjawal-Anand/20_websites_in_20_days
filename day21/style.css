@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Ubuntu" sans-serif;
+}
+
+#scroll-animate {
+	overflow: hidden;
+}
+
+#scroll-animate-main {
+	width: 100%;
+	left: 0;
+	position: fixed;
+}
+
+header {
+	width: 100%;
+	height: 70%;
+	top: 0;
+	position: fixed;
+	z-index: -1;
+	background: gray;
+}
+
+footer {
+	width: 100%;
+	bottom; -300px;
+	height: 300px;
+	position: fixed;
+	z-index: -1;
+	background: gray;
+}
+
+.content {
+	width: 100%;
+	height: 1000px;
+	min-height: 1000px;
+	position: relative;
+	z-index: 1;
+	background: #ededed;
+}
+
+#parallax-wrapper {
+	margin-top: 100%;
+	margin-bottom: 300px;
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	-ms-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	box-shadow: 0 0 20px rgba(0,0,0,0.5)
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+	height: 100%;
+	width: 100%;
+	color: #fff;
+}
+
+header h1 {}
+
+
+.content h1 {
+	color: #999;
+	line-height: 1000px;
+}
+
+footer h1 {
+	line-height: 300px;
+}
+
+header,
+footer,
+#scroll-animate-main {
+	-webkit-transition: cubic-bezier(0,0,0,1) 0.4s all;
+	-moz-transition: cubic-bezier(0,0,0,1) 0.4s all;
+	transition: cubic-bezier(0,0,0,1) 0.4s all;
+}
+
+
